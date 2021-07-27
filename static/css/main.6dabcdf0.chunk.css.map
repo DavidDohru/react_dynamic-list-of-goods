@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAEA,KACE,YAAa,CACb,qBAAsB,CACtB,WAAY,CACZ,aAAA,CAAA,QAAQ,CACR,uBACE,YAAa,CACb,aAAA,CAAA,QAAS","file":"main.6dabcdf0.chunk.css","sourcesContent":["// styles go here\n\n.App {\n  display: flex;\n  flex-direction: column;\n  margin: 30px;\n  gap:30px;\n  &__container-button {\n    display: flex;\n    gap: 20px;\n  }\n}\n"]}
